@@ -58,7 +58,7 @@ h1.titreprincipal{
 }
 
 body{
-	background: /img/background.jpg
+	background: url(img/background.jpg) no-repeat
 	background-size: 100%;
 	
 
