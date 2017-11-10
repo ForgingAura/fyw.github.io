@@ -57,8 +57,8 @@ h1.titreprincipal{
 
 }
 
-img.background{
-	<img src="img/background.jpg">;
+body{
+	background: url("http://cubelife-craft.livehost.fr/_media/img/large/minecraft-shaders-sunset172-sonic-ethers-unbelievable-shaders-and-glsl-shaders-mod-neojp64v.jpg") no-repeat;
 	background-size: 100%;
 
 }
